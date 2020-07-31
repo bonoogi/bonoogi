@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👨‍💻
+
+모바일 앱 이거저거 만드는 사람
 
 <!--
 **bonoogi/bonoogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
